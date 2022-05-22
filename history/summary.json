@@ -4,19 +4,19 @@
     "url": "https://kreativ-anders.de",
     "icon": "https://favicons.githubusercontent.com/kreativ-anders.de",
     "slug": "kreativ-anders-de",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 632,
-    "timeDay": 778,
-    "timeWeek": 632,
-    "timeMonth": 632,
-    "timeYear": 632,
+    "status": "up",
+    "uptime": "99.27%",
+    "uptimeDay": "97.60%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.27%",
+    "uptimeYear": "99.27%",
+    "time": 663,
+    "timeDay": 799,
+    "timeWeek": 663,
+    "timeMonth": 663,
+    "timeYear": 663,
     "dailyMinutesDown": {
-      "2022-05-22": 1
+      "2022-05-22": 35
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://bookmark.cards/",
     "icon": "https://favicons.githubusercontent.com/bookmark.cards",
     "slug": "bookmark-cards",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 751,
-    "timeDay": 1000,
-    "timeWeek": 751,
-    "timeMonth": 751,
-    "timeYear": 751,
+    "status": "up",
+    "uptime": "99.28%",
+    "uptimeDay": "97.63%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "99.28%",
+    "time": 764,
+    "timeDay": 912,
+    "timeWeek": 764,
+    "timeMonth": 764,
+    "timeYear": 764,
     "dailyMinutesDown": {
-      "2022-05-22": 0
+      "2022-05-22": 34
     }
   }
 ]
