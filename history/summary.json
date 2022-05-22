@@ -4,25 +4,27 @@
     "url": "https://kreativ-anders.de",
     "icon": "https://favicons.githubusercontent.com/kreativ-anders.de",
     "slug": "kreativ-anders-de",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 632,
     "timeDay": 778,
     "timeWeek": 632,
     "timeMonth": 632,
     "timeYear": 632,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-22": 1
+    }
   },
   {
     "name": "bookmark.cards",
     "url": "https://bookmark.cards/",
     "icon": "https://favicons.githubusercontent.com/bookmark.cards",
     "slug": "bookmark-cards",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 751,
     "timeMonth": 751,
     "timeYear": 751,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-22": 0
+    }
   }
 ]
